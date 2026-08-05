@@ -1,0 +1,8 @@
+h1{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

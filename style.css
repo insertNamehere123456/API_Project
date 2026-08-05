@@ -1,0 +1,29 @@
+img {
+    width: 50px;
+    height: auto;
+}
+img.pokefound {
+    width: 100px;
+}
+
+#userSecurity{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(min-height: 570px){
+
+}
+
+@media(max-width: 320px){
+    img{
+        width: 250px;
+        height: auto;
+    }
+    body{
+        background-color: aqua;
+    }
+}
